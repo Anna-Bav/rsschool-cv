@@ -50,7 +50,7 @@ I easily find common language with people and prefer to work in a team.
 
 Intermediate
 
-![English](//English.png)
+![English](English.png)
 
 
 
