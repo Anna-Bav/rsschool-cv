@@ -5,7 +5,7 @@
 *__Location:__ Minsk, Belarus
 *__Phone:__ +375 44 765 61 94
 *__Email:__ ann.bavtruk@gmail.com
-*__GitHub:__ https://github.com/Anna-Bav
+*__GitHub:__ [Anna-Bav](https://github.com/Anna-Bav)
 
 ##**About Me**
 
@@ -24,6 +24,23 @@ I easily find common language with people and prefer to work in a team.
 *Git, GitHub
 *VS Code
 *Adobe Photoshop, Figma
+
+##**Code Example**
+
+```
+ function changeColor() {
+            colors = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'];
+
+            let s = "#";
+            for (j = 1; j <= 6; j++) {
+                let index = Math.floor(Math.random() * colors.length);
+                s += colors[index];
+
+            }
+            return s;
+        }
+```
+
 
 
 
